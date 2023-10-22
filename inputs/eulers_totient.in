@@ -1,0 +1,3 @@
+// The program input for eulers_totient/src/main.leo
+[phi]
+public p: u8 = 60u8;
